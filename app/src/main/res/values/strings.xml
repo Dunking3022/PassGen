@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PassGen</string>
+    <string name="generate">GENERATE</string>
+    <string name="passgen">PassGen</string>
+</resources>
